@@ -24,6 +24,13 @@ export function ProjectsSection() {
       image: "/uploads/ff14efd6-3aed-4848-a03f-09d50953b01a.png",
       tech: ["Tableau"],
       liveUrl: "https://public.tableau.com/views/SalesCustomerDashboards_17447131525650/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+    },
+    {
+      title: "QuickBill",
+      description: "Simple billing app for generating and managing invoices",
+      image: "/uploads/ss.png", // Updated image path
+      tech: ["React", "Node.js"],
+      liveUrl: "https://quickbill-rouge.vercel.app"
     }
   ];
 
