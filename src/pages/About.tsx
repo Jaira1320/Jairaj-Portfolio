@@ -44,8 +44,8 @@ const About = () => {
             <div className="lg:col-span-1">
               <div className="sticky top-24">
                 <div className="relative mb-6 overflow-hidden rounded-xl">
-                  <img
-                    src="fuploads/da676bdd-37f1-43ce-a44b-9c34473287ec.png"
+                <img
+                    src="src/pages/PHOTO-2025-03-28-14-36-39.jpg"
                     alt="Jairaj Singh Matta"
                     className="w-full h-auto"
                   />
